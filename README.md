@@ -13,6 +13,8 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafrlima&layout=compact&langs_count=8&card_width=445&theme=onedark"/>
   
+   </br>
+  
   <a href="https://github.com/anafrlima/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=anafrlima&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=df6d74&ring=df6d74&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
