@@ -11,18 +11,16 @@
   
   </br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafrlima&layout=compact&langs_count=8&card_width=445&theme=onedark"/>
-  
-   </br>
-  
   <a href="https://github.com/anafrlima/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=anafrlima&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=df6d74&ring=df6d74&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
 </div>
+
+</div>
   
  ### Main skills
   
-<div style="display: inline_block">
+<div>
   <img align="center" alt="Ana-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="Ana-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Ana-Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -42,4 +40,4 @@
   <a href="https://www.linkedin.com/in/anafrlima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
   
-</div>
+
